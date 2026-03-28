@@ -1,0 +1,32 @@
+# Secrets
+.env
+
+# Zaim tokens & data (sensitive)
+finance/zaim/tokens.json
+finance/zaim/temp_tokens.json
+finance/zaim/*.json
+
+# Amazon data (sensitive)
+finance/amazon/cookies.txt
+finance/amazon/*.json
+finance/amazon/*.csv
+finance/amazon/matched_report.md
+
+# Personal data (fill your own)
+# me/profile.md is intentionally tracked — it's a template
+# finance/review.md is intentionally tracked — it's a template
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+.venv/
+venv/
+
+# Editor
+.vscode/
+*.swp
