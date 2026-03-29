@@ -2,6 +2,10 @@
 
 **Claude Codeを人生の統合開発環境にする「Life OS」**
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Use this template](https://img.shields.io/badge/Use%20this-template-brightgreen?logo=github)](https://github.com/nyanko3141592/life-os/generate)
+[![Claude Code](https://img.shields.io/badge/Built%20for-Claude%20Code-orange)](https://claude.ai/claude-code)
+
 ---
 
 ```bash
@@ -9,6 +13,8 @@ git clone https://github.com/nyanko3141592/life-os
 cd life-os
 claude  # あとはAIに任せる
 ```
+
+> **5分で動かしたい方** → [QUICKSTART.md](QUICKSTART.md)
 
 ---
 
